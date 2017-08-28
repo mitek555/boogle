@@ -1,0 +1,28 @@
+.header {
+    width: 100px;
+    height : 50px;
+    text-align:right;
+}
+
+.header a{
+  margin-right: 100px;
+
+}
+
+
+.google{
+ width: 100px;
+ height: 50px;
+ margin: 100px auto 10px auto;
+ text-align: center;
+
+
+}
+
+.input{
+width:100px;
+height: 70px;
+
+
+
+}
